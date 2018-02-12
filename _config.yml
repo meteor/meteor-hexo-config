@@ -101,7 +101,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: meteor
+theme: ../node_modules/meteor-theme-hexo
 marked:
   breaks: false
 
