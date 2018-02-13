@@ -19,7 +19,7 @@ content_root: 'source'
 
 nav_class: dark
 
-favicon: '../images/favicon.png'
+favicon: '../images/favicon-meteor.png'
 
 logo:
   nav_mobile: '../images/logo-coralspace-left.svg'
