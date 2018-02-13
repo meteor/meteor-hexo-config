@@ -17,6 +17,8 @@ apis:
     indexName: meteor_api_guide
 content_root: 'source'
 
+nav_class: dark
+
 favicon: '../images/favicon.png'
 
 logo:
