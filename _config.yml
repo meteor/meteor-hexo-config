@@ -15,6 +15,12 @@ apis:
   docsearch:
     apiKey: bdf6b09d12024f6bae3631a0dfdd4a7f
     indexName: meteor_api_guide
+
+# For use with the "Edit on GitHub" button, this represents the path to the
+# source markdown, from the root of the GitHub repository, with no leading
+# slash.  It's set to 'source' here as that's the Hexo default, though it can
+# vary based on repository configuration (some variations use the
+# less-preferred `content` directory.
 content_root: 'source'
 
 nav_class: dark
