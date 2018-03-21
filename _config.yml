@@ -23,6 +23,7 @@ apis:
 # less-preferred `content` directory.
 content_root: 'source'
 
+css_bundle: meteor
 nav_class: dark
 
 favicon: images/favicon-meteor.png
