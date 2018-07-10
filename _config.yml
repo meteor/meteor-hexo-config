@@ -112,3 +112,6 @@ prism_plus:
 
 deploy:
   type:
+
+browsersync:
+  ghostMode: false
