@@ -30,6 +30,11 @@ logo:
   subtitle: 'Developers'
 
 nav_links:
+  'Galaxy Hosting':
+    url: https://www.meteor.com/hosting
+    partial: illustration-guide
+    target: _new
+    active: false
   'Tutorials':
     url: http://www.meteor.com/tutorials
     partial: illustration-guide
