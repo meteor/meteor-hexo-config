@@ -24,8 +24,8 @@ nav_class: dark
 favicon: images/favicon-meteor.png
 
 logo:
-  nav_mobile: images/logo-coralspace-left.svg
-  url: 'http://www.meteor.com/developers'
+  nav_mobile: images/meteor-cloud.png
+  url: ''
   title: 'Meteor Developers'
   subtitle: 'Developers'
 
