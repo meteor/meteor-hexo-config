@@ -30,22 +30,22 @@ logo:
   subtitle: 'Developers'
 
 nav_links:
-  'Galaxy Hosting':
-    url: https://www.meteor.com/hosting
+  'Meteor Cloud':
+    url: https://www.meteor.com/cloud
     partial: illustration-guide
     target: _new
     active: false
   'Tutorials':
-    url: http://www.meteor.com/tutorials
+    url: https://www.meteor.com/developers/tutorials
     partial: illustration-guide
     target: _new
     active: false
   'Guide':
-    url: http://guide.meteor.com
+    url: https://guide.meteor.com
     partial: illustration-compass
     active: false
   'API Docs':
-    url: http://docs.meteor.com
+    url: https://docs.meteor.com
     partial: illustration-logs
     active: false
   'Forums':
@@ -56,7 +56,7 @@ nav_links:
 
 social_links:
   github: 'https://github.com/meteor'
-  twitter: '@meteor'
+  twitter: '@meteorjs'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

@@ -1,6 +1,6 @@
 {
   "name": "meteor-hexo-config",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "",
   "main": "index.js",
   "repository": "github:meteor/meteor-hexo-config",
