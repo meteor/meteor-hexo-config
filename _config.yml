@@ -95,7 +95,7 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-theme: ../node_modules/meteor-theme-hexo
+theme: ../node_modules/@meteorjs/meteor-theme-hexo
 
 # Match the GitHub style of breaks, since we generally do edits on GitHub.
 marked:
